@@ -1,2 +1,2 @@
-# TemplateProjectDevOps
+# {{TemplateName}}
 Template
