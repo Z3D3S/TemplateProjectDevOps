@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace LacunaDevOps.Site.Entities
+namespace {{TemplateName}}.Site.Entities
 {
     public class AppDbContext : DbContext
     {
