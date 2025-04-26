@@ -1,8 +1,8 @@
-﻿using LacunaDevOps.Site.Entities;
+﻿using {{TemplateName}}.Site.Entities;
 using Microsoft.EntityFrameworkCore;
 using System;
 
-namespace LacunaDevOps.Site.Business
+namespace {{TemplateName}}.Site.Business
 {
     public partial class BusinessService
     {
@@ -10,12 +10,6 @@ namespace LacunaDevOps.Site.Business
         public BusinessService(AppDbContext dbContext)
         {
             this.dbContext = dbContext;
-        }
-
-        public async Task<Recipe> GetRequireRecipe(Guid id)
-        {
-            await dbContext.Recipes.FirstOrDefaultAsync(i => i.Id == id) ?? throw new Exception($"Receita com o id: {id} não encontrado");
-
         }
     }
 }
