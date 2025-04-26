@@ -1,6 +1,4 @@
-﻿using LacunaDevOps.Api;
-using LacunaDevOps.Api.Recipe;
-using LacunaDevOps.Site.Entities;
+using {{TemplateName}}.Site.Entities;
 
 namespace {{TemplateName}}.Site.Services
 {
