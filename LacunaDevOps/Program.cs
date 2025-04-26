@@ -1,4 +1,4 @@
-using LacunaDevOps.Site.Entities;
+using {{TemplateName}}.Site.Entities;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 
 builder.Services.AddDbContext<AppDbContext>(opt =>
-    opt.UseInMemoryDatabase("LacunaDevOps"));
+    opt.UseInMemoryDatabase("{{TemplateName}}"));
 
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
