@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\LacunaDevOps.Api.csproj" />
+    <ProjectReference Include="..\Api\{{TemplateName}}.Api.csproj" />
   </ItemGroup>
 
 </Project>
