@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\LacunaDevOps.Site.props" />
-</Project>
