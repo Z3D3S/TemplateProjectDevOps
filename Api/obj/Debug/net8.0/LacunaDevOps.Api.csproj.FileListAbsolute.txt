@@ -1,0 +1,4 @@
+C:\Users\rodri\source\repos\LacunaDevOps.Api\obj\Debug\net8.0\LacunaDevOps.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\LacunaDevOps.Api\obj\Debug\net8.0\LacunaDevOps.Api.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\LacunaDevOps.Api\obj\Debug\net8.0\LacunaDevOps.Api.AssemblyInfo.cs
+C:\Users\rodri\source\repos\LacunaDevOps.Api\obj\Debug\net8.0\LacunaDevOps.Api.csproj.CoreCompileInputs.cache
