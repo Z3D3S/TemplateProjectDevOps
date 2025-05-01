@@ -1,11 +1,1 @@
-# Ignora todos os arquivos
-*
 
-# Permite pastas (necessário para alcançar arquivos liberados manualmente)
-!*/
-
-# Permite arquivos que começam com .git (como .gitignore, .gitattributes etc.)
-!.git*
-
-# Ignora todos os .gitkeep em qualquer lugar
-**/.gitkeep
