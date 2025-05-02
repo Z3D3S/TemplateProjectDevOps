@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using System;
+using {{TemplateName}}.Site.Entities;
 
 namespace {{TemplateName}}.Site.Business
 {
